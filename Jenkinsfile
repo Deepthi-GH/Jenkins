@@ -23,7 +23,7 @@ pipeline {
         password(name: 'PASSWORD', defaultValue: 'SECRET', description: 'Enter a password')
     }
     
-    // This is build section
+    // This is build section. hiii
     stages {
         stage('Build') {
             steps {
