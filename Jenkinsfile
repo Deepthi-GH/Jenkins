@@ -38,7 +38,7 @@ pipeline {
 
                         echo "Biography: ${params.BIOGRAPHY}"
 
-                        echo "Toggle: ${params.TOGGLE}"
+                        echo "Toggle: ${params.DEPLOY}"
 
                         echo "Choice: ${params.CHOICE}"
 
